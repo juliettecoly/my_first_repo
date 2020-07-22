@@ -1,7 +1,8 @@
 # my_first_repo
 
-Welcome!
+Welcome, Bienvenue, Welcome!
 
-First and second changes.
 
 Third change!
+
+I went to Yosemite. 
